@@ -1,0 +1,9 @@
+.mainBody {
+    background-color: pink;
+}
+
+@media (min-width: 375px) {
+    .mainBody {
+        background-color: blue;
+    }
+}
